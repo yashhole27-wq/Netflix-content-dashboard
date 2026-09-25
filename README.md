@@ -6,7 +6,27 @@ The project focuses on transforming Netflix content data into an interactive bus
 
 ---
 
-## 📊 Dashboard Overview
+## 📸 Dashboard Preview
+
+### S1 — Dashboard Overview
+
+![Netflix Dashboard - S1](screenshots/S1.png)
+
+### S2 — Content Analysis
+
+![Netflix Dashboard - S2](screenshots/S2.png)
+
+### S3 — Genre & Country Analysis
+
+![Netflix Dashboard - S3](screenshots/S3.png)
+
+### S4 — Audience & Trend Analysis
+
+![Netflix Dashboard - S4](screenshots/S4.png)
+
+### S5 — Detailed Analysis
+
+![Netflix Dashboard - S5](screenshots/S5.png)
 
 The dashboard provides a high-level view of Netflix's content library through interactive KPIs, charts, tables, and slicers.
 
