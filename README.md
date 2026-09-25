@@ -1,2 +1,1 @@
-# Netflix-content-dashboard
-Interactive Power BI dashboard analyzing Netflix's content library
+Built an interactive Power BI dashboard analyzing Netflix's global content library (8,800+ titles), including data cleaning in Power Query, custom DAX measures, cross-filtering slicers, and a heatmap visualizing content trends over time. Key finding: movies make up 70% of the library, with the U.S. producing 42% of content.
